@@ -11,8 +11,8 @@
 -  
 # 実行手順 
 ```bash
-$ git clone git@github.com:TomokiMatsubuchi/Stock-Rolling-App.g  
-$ cd Stock-Rolling-App  
+$ git clone git@github.com:ayaka2209/original_app.git    
+$ cd original_app    
 $ bundle install 
 $ rails db:create && rails db:migrate 
 $ rails s  
