@@ -5,7 +5,7 @@
 - Rails 6.0.3  
 ## 就業Termの技術 
 -  device機能
--  1対1のメッセージ機能
+-  Ajaxを使ったコメント機能
 ## カリキュラム外の技術 
 -  SimpleCalendar
 ## 実行手順 
